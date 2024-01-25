@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.btn-editar {
+  background-color: #0d6efd !important;
+  color: white !important;
+}
+
+.btn-editar:hover {
+  background-color: #0c62e4 !important;
+}
+
+.btn-apagar {
+  background-color: #5c636a !important;
+  color: white !important;
+}
+
+.btn-apagar:hover {
+  background-color: #535a61 !important;
+}
